@@ -1,7 +1,7 @@
 <h1 align="center">Hi! Haard Solanki this Side</h1>
 <h3 align="center">Fullstack Developer Delving into Solidity, Web3, and Node.js with Passion for Backend Development</h3>
 
-<p align="left"> <a href="https://twitter.com/solanki_haard" target="blank"><img src="https://img.shields.io/twitter/follow/solanki_haard?logo=twitter&style=for-the-badge" alt="solanki_haard" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
