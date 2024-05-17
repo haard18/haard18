@@ -20,10 +20,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=haard18&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
