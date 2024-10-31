@@ -21,6 +21,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Code-Parth&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
+
 [![](https://visitcount.itsvg.in/api?id=haard18&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
