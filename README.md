@@ -1,5 +1,5 @@
-# 💫 About Me:
-"Fullstack Developer Delving into Solidity, Web3, and Node.js with Passion for Backend Development"
+## 💫 About Me:
+### "Fullstack Developer Delving into Solidity, Web3, and Node.js with Passion for Backend Development"
 
 
 ## 🌐 Socials:
