@@ -17,8 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haard18&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 
 
 ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=haard18&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
