@@ -41,7 +41,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haard18&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 🔥 Recent Contributions:
-([![Haard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haard18&bg_color=000000&color=699e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Haard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haard18&bg_color=000000&color=699e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
