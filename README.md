@@ -12,10 +12,10 @@
 
 ## 🔥 Current Projects:
 
-- 🎟 **[NFT Ticketing Marketplace](#)** – A resale platform with **royalty enforcement** and **price capping**  
-- 🌍 **[SustainScan](#)** – AI-driven **product sustainability analysis** for **recycling & resale**  
-- 💱 **[Uniswap v4 Deep Dive](#)** – Exploring **dynamic fees and limit orders**  
-- 🎯 **[Gamified Learning App](#)** – Interactive **DeFi onboarding with progressive challenges**  
+- 🎟 **NFT Ticketing Marketplace** – A resale platform with **royalty enforcement** and **price capping**  
+- 🌍 **SustainScan** – AI-driven **product sustainability analysis** for **recycling & resale**  
+- 💱 **Uniswap v4 Deep Dive** – Exploring **dynamic fees and limit orders**  
+- 🎯 **Gamified Learning App** – Interactive **DeFi onboarding with progressive challenges**  
 
 ---
 
