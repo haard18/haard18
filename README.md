@@ -1,6 +1,8 @@
-# 👋 Hey, I'm Haard Solanki!  
+#   Haard here  
+## mehhhhh who's gonna write all this
 
-### Fullstack Developer | Web3 Enthusiast | Smart Contract Engineer  
+
+### Fullstack Developer | Into the Web3 Rabbit Hole | Smart Contract Engineer  
 
 🚀 **Building the future of decentralized applications**  
 💡 Passionate about **Ethereum, DeFi, Smart Contracts, and Backend Development**  
@@ -57,5 +59,5 @@
 
 ---
 
-🚀 **"Always exploring the intersection of Web3, DeFi, and real-world use cases."**  
-💡 Let's build something **disruptive and decentralized** together!  
+  
+wubba lubba dub dub
