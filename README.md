@@ -1,5 +1,6 @@
 #   Haard here  
-## mehhhhh who's gonna write all this
+## mehhhhh who's gonna write all this but whatever
+
 
 
 ### Fullstack Developer | Into the Web3 Rabbit Hole | Smart Contract Engineer  
