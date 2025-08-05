@@ -41,8 +41,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haard18&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haard18&theme=gruvbox&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haard18&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haard18&theme=merko&show_icons=true&hide_border=true&count_private=true)
 ## 🔥 Recent Contributions:
 [![Haard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haard18&bg_color=000000&color=699e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
