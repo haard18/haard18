@@ -1,19 +1,16 @@
-#   Haard here  
-## mehhhhh who's gonna write all this but whatever
+# Haard here 👋
 
-
-
-### Fullstack Developer | Into the Web3 Rabbit Hole | Smart Contract Engineer  
+## Fullstack Developer | Web3 & Smart Contract Engineer
 
 🚀 **Building the future of decentralized applications**  
 💡 Passionate about **Ethereum, DeFi, Smart Contracts, and Backend Development**  
-👨‍💻 Currently working as a **Remote Software Developer at GoldPesa**  
+👨💻 Currently working at **Elcara** (inferred from recent commit activity)  
 📚 Learning **Uniswap v4, Protocol Engineering, and Solidity Best Practices**  
 🎯 Open to collaborations on **DeFi, NFT Marketplaces, and Blockchain Security**  
 
 ---
 
-## Currently @Goldpesa
+## Currently @Elcara
 
 ---
 
@@ -37,9 +34,26 @@
 ![](https://github-readme-stats.vercel.app/api?username=haard18&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haard18&theme=gruvbox&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haard18&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+## 🔥 Recent Activity (Last 6 Months):
+- **angel** - 23 commits (personal project)
+- **Elcara-HQ/replier-backend** - 7 commits
+- **Elcara-HQ/ai-agency** - 4 commits
+- **Elcara-HQ/elcara-ai** - 4 commits
+- Working on multiple Elcara-HQ projects, YEET-ORG, and whitebeard-ai
+
+## 📊 Top Languages (Last 6 Months):
+- TypeScript (9 repos)
+- C# (2 repos)
+- HTML (2 repos)
+- JavaScript, Rust, Solidity, Swift (1 each)
+
+---
+
 ## 🔥 Recent Contributions:
 [![Haard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haard18&bg_color=000000&color=699e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haard18"/>
+
 ---
 
 ## 📬 Let's Connect!
@@ -54,5 +68,4 @@
 
 ---
 
-  
 wubba lubba dub dub
