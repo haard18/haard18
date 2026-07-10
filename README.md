@@ -20,6 +20,8 @@
 
 <!-- ══════════════════════════════  WHOAMI  ══════════════════════════════ -->
 
+### ᴡʜᴏᴀᴍɪ
+
 Systems engineer who lives in the layers most people skip — the runtime, the data path, the thing that has to hold under real load.
 
 - **Systems Engineer @ WhiteBeard AI** — trading orchestration, market-making, low-latency infra
@@ -29,7 +31,7 @@ Systems engineer who lives in the layers most people skip — the runtime, the d
 
 <!-- ══════════════════════════════  STACK  ══════════════════════════════ -->
 
-### Stack
+### ꜱᴛᴀᴄᴋ
 
 `Rust`&nbsp;&nbsp;`Go`&nbsp;&nbsp;`C++`&nbsp;&nbsp;`TypeScript`&nbsp;&nbsp;`Python`
 <br/>
@@ -37,24 +39,24 @@ Systems engineer who lives in the layers most people skip — the runtime, the d
 
 <!-- ══════════════════════════════  SELECTED WORK  ══════════════════════════════ -->
 
-### Selected work
+### ꜱᴇʟᴇᴄᴛᴇᴅ ᴡᴏʀᴋ
 
 The trading infra and hardware live in private repos. A few public things:
 
-**Systems &amp; infra**
+**ꜱʏꜱᴛᴇᴍꜱ & ᴛʀᴀᴅɪɴɢ**
 
 | | | |
 |---|---|---|
-| **[wallet-copy](https://github.com/haard18/wallet-copy)** | Copy-trading engine in Rust | `Rust` |
-| **[osdev](https://github.com/haard18/osdev)** | Bare-metal operating-system experiments | `Asm` |
-| **[weatherbot](https://github.com/haard18/weatherbot)** | Polymarket trading bot — Kelly Criterion + EV filtering | `Python` |
+| **[market_data_aggregator](https://github.com/haard18/market_data_aggregator)** | Low-latency market-data aggregator | `C++` |
+| **[quantdev](https://github.com/haard18/quantdev)** | Quant research &amp; strategy prototyping | `C#` |
+| **[system-design](https://github.com/haard18/system-design)** | Gamified System Design learning dashboard | `TypeScript` |
 
-**Web &amp; tools**
+**ᴡᴇʙ & ʜᴀʀᴅᴡᴀʀᴇ**
 
 | | | |
 |---|---|---|
 | **[portfolio](https://github.com/haard18/portfolio)** | The magazine-style site at [hardylabs.cloud](https://hardylabs.cloud) | `TypeScript` |
-| **[twitter-cli](https://github.com/haard18/twitter-cli)** | X in your terminal — feed, bookmarks, timelines | `Python` |
+| **[raspberry-pi-server](https://github.com/haard18/raspberry-pi-server)** | Self-hosted home server on a Raspberry Pi | `TypeScript` |
 
 <br/>
 
