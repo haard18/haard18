@@ -26,12 +26,13 @@
 
 ### ᴡʜᴏᴀᴍɪ
 
-Systems engineer who lives in the layers most people skip — the runtime, the data path, the thing that has to hold under real load.
+AI engineer. I build agentic systems that have to actually work.
 
-- **Systems Engineer @ WhiteBeard AI** — trading orchestration, market-making, low-latency infra
-- **Cofounder @ Vena** — a coin-sized health sensor that clips into an analog watch
-- I write whatever the system actually needs — a C++ market maker one day, a 3D Next.js site the next
-- coffee &gt; sleep · vim, btw
+- **AI Engineer @ KeeMakr AI** - agentic systems in production
+- **Co-Founder @ Kleostudios**
+- **Building Vena** - a coin-sized health sensor that clips into an analog watch
+- Before: WhiteBeard (low-latency trading infra), GoldPesa, elcara
+- coffee &gt; sleep - vim, btw
 
 <!-- ══════════════════════════════  STACK  ══════════════════════════════ -->
 
