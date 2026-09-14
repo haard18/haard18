@@ -16,6 +16,10 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/hardy-banner.png" alt="hardy_ — cozy night coding illustration" width="100%" />
+</div>
+
 <br/>
 
 <!-- ══════════════════════════════  WHOAMI  ══════════════════════════════ -->
